@@ -1,10 +1,10 @@
 {
     "LatestVersion": "1.0.0",
-    "UpdateUrl": "https://github.com/dilu-madushan/singlish-keyboard/releases",
+    "UpdateUrl": "https://akuru.wikilanka.org/download",
     "GlobalNotification": {
         "Id": "donate_promo_001",
         "Title": "Support Akuru!",
         "Message": "Help keep the project alive. Click to support us!",
-        "ActionUrl": "https://www.paypal.com"
+        "ActionUrl": "https://www.akuru.wikilanka.org"
     }
 }
