@@ -1,0 +1,10 @@
+{
+    "LatestVersion": "1.0.0",
+    "UpdateUrl": "https://github.com/dilu-madushan/singlish-keyboard/releases",
+    "GlobalNotification": {
+        "Id": "donate_promo_001",
+        "Title": "Support Akuru!",
+        "Message": "Help keep the project alive. Click to support us!",
+        "ActionUrl": "https://www.paypal.com"
+    }
+}
